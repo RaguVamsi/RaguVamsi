@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/107539107/233205749-792e74b2-e0d1-43b3-90ff-e84d9c424804.gif)
 <h1 align="center">Hi 👋, I'm Ragu Vamsi G</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<br/>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raguvamsi&label=Profile%20views&color=0e75b6&style=flat" alt="raguvamsi" /> </p>
